@@ -1,2 +1,2 @@
 # Shell
-Simple shell written in C++
+Simple shell written in C
